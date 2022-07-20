@@ -1,10 +1,10 @@
 <?php
 
 $connect = mysqli_connect( 
-    "sql107.epizy.com", 
-    "epiz_32024846", 
-    "XTinOoitAQAvqmy", 
-    "epiz_32024846_cms" 
+    "sql206.epizy.com", 
+    "epiz_32170248", 
+    "iyMJN3aOTPggLJ6", 
+    "epiz_32170248_cms" 
 );
 
 mysqli_set_charset( $connect, 'UTF8' );
